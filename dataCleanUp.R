@@ -1,7 +1,7 @@
-# =============================================
-# Following code & data are from:
-#  http://byrneslab.net/teaching/biol-607-2014/
-#====================================================
+### =============================================
+### Following code & data are from:
+###  http://byrneslab.net/teaching/biol-607-2014/
+###====================================================
 
 ---
 title: "Data clean up"
